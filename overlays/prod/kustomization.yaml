@@ -12,7 +12,6 @@ namePrefix:
 
 images:
     - name : nginx
-      newName: nginx-1.20
       newTag: 1.2.0
 
 namespace: 
