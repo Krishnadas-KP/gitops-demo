@@ -1,0 +1,13 @@
+
+namespace: 
+    dev-app
+
+resources:
+  - ../../base
+  - namespace.yaml
+
+patches:
+  - replica_count.yaml
+
+namePrefix:
+    dev-

@@ -1,0 +1,14 @@
+resources:
+  - ../../base
+  - namespace.yaml
+
+
+
+patches:
+  - replica_count.yaml
+
+namePrefix:
+    prod-
+
+namespace: 
+    prod-app
