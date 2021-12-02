@@ -12,7 +12,7 @@ namePrefix:
 
 images:
     - name : nginx
-      newTag: 1.2.0
+      newTag: 1.20
 
 namespace: 
     prod-app
